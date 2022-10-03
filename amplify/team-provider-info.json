@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-sermonsurprise-dev-135330-authRole",
+            "UnauthRoleArn": "arn:aws:iam::238549258011:role/amplify-sermonsurprise-dev-135330-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::238549258011:role/amplify-sermonsurprise-dev-135330-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-sermonsurprise-dev-135330-deployment",
+            "UnauthRoleName": "amplify-sermonsurprise-dev-135330-unauthRole",
+            "StackName": "amplify-sermonsurprise-dev-135330",
+            "StackId": "arn:aws:cloudformation:us-east-1:238549258011:stack/amplify-sermonsurprise-dev-135330/9ffa3b60-bb26-11eb-9873-0a35f6ddac11",
+            "AmplifyAppId": "d3ovtkuj5qm1nh"
+        },
+        "categories": {
+            "auth": {
+                "sermonsurprise5aee5e6c": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3ovtkuj5qm1nh",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
